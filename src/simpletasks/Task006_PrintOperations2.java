@@ -2,7 +2,7 @@ package simpletasks;
 
 import java.util.Scanner;
 
-public class Task6_PrintOperations2 {
+public class Task006_PrintOperations2 {
       
     public static void main(String[] args) {
         

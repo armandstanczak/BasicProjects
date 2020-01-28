@@ -2,7 +2,7 @@ package simpletasks;
 
 import java.util.Scanner;
 
-public class Task24_BinToOct {
+public class Task024_BinToOct {
     
     public static void main(String[] args) {
 

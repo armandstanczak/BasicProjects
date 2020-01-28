@@ -1,6 +1,6 @@
 package simpletasks;
 
-public class Task8_DisplayPattern {
+public class Task008_DisplayPattern {
 
     public static void main(String[] args) {
         

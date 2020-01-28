@@ -2,7 +2,7 @@ package simpletasks;
 
 import java.util.Scanner;
 
-public class Task23_BinToHex {
+public class Task023_BinToHex {
 
     public static void main(String[] args) {
         

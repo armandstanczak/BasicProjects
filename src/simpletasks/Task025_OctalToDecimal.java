@@ -2,7 +2,7 @@ package simpletasks;
 
 import java.util.Scanner;
 
-public class Task25_OctalToDecimal {
+public class Task025_OctalToDecimal {
     
     public static void main(String[] args) {
        

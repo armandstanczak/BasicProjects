@@ -2,7 +2,7 @@ package simpletasks;
 
 import java.util.Scanner;
 
-public class Task15_SwapTwoNumbers {
+public class Task015_SwapTwoNumbers {
     
     public static void main(String[] args) {
         

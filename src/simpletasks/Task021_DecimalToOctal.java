@@ -2,30 +2,30 @@ package simpletasks;
 
 import java.util.Scanner;
 
-public class Task19_Decimal2Binary {
+public class Task021_DecimalToOctal {
     
     public static void main(String[] args) {
         
         Scanner input = new Scanner(System.in);
-        System.out.print("Input decimal number: ");
+        System.out.print("Input number: ");
         int number = input.nextInt();
         
-        int bin[] = new int[64];
+        int oct[] = new int[100];
         int i = 1;
         
         while (number != 0)
         {
-            bin[i] = number % 2;
-            number = (number - (number % 2)) / 2;
+            oct[i] = number % 8;
+            number /= 8;
             i++;
         }
         
-        System.out.println("Converted to binary: ");
+        System.out.print("Converted to octal is: ");
+        
         for (int j = i - 1; j > 0; j--)
         {
-            System.out.print(bin[j]);
+            System.out.print(oct[j]);
         }
-        
         System.out.println("");
     }
 }

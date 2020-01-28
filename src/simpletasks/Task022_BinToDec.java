@@ -2,7 +2,7 @@ package simpletasks;
 
 import java.util.Scanner;
 
-public class Task22_BinToDec {
+public class Task022_BinToDec {
     
     public static void main(String[] args) {
         

@@ -2,7 +2,7 @@ package simpletasks;
 
 import java.util.Scanner;
 
-public class Task7_Mutliplication10x {
+public class Task007_Mutliplication10x {
 
     public static void main(String[] args) {
         

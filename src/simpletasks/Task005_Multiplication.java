@@ -2,16 +2,17 @@ package simpletasks;
 
 import java.util.Scanner;
 
-public class Task2_SumTwoNumbers {
+public class Task005_Multiplication {
     
     public static void main(String[] args) {
         
         Scanner input = new Scanner(System.in);
-        System.out.println("Inpur first number:");
+        System.out.print("Input first number: ");
         int firstNo = input.nextInt();
-        System.out.println("Input second number:");
+        System.out.print("Input second number: ");
         int secondNo = input.nextInt();
         
-        System.out.println("Sum is equal to: " + (firstNo + secondNo));
+        System.out.println("Output: " + (firstNo * secondNo));
+        
     }
 }

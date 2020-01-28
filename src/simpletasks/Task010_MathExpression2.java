@@ -1,6 +1,6 @@
 package simpletasks;
 
-public class Task10_MathExpression2 {
+public class Task010_MathExpression2 {
 
     public static void main(String[] args) {
         

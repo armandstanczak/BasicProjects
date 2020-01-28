@@ -1,6 +1,6 @@
 package simpletasks;
 
-public class Task14_AmericanFlag {
+public class Task014_AmericanFlag {
 
     public static void main(String[] args) {
         

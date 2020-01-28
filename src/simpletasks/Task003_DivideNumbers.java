@@ -2,17 +2,16 @@ package simpletasks;
 
 import java.util.Scanner;
 
-public class Task5_Multiplication {
+public class Task003_DivideNumbers {
     
     public static void main(String[] args) {
         
         Scanner input = new Scanner(System.in);
-        System.out.print("Input first number: ");
+        System.out.println("Input fisrt number:");
         int firstNo = input.nextInt();
-        System.out.print("Input second number: ");
+        System.out.println("Divide it by:");
         int secondNo = input.nextInt();
         
-        System.out.println("Output: " + (firstNo * secondNo));
-        
+        System.out.println("Divided number is equal to: " + (firstNo / secondNo));
     }
 }

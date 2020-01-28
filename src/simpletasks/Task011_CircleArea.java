@@ -1,6 +1,6 @@
 package simpletasks;
 
-public class Task11_CircleArea {
+public class Task011_CircleArea {
 
     public static void main(String[] args) {
         

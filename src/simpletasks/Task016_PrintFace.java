@@ -1,6 +1,6 @@
 package simpletasks;
 
-public class Task16_PrintFace {
+public class Task016_PrintFace {
 
     public static void main(String[] args) {
         

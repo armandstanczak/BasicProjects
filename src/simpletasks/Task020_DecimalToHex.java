@@ -2,7 +2,7 @@ package simpletasks;
 
 import java.util.Scanner;
 
-public class Task20_DecimalToHex {
+public class Task020_DecimalToHex {
 
     public static void main(String[] args) {
         

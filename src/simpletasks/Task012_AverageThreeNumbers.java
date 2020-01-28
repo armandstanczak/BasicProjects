@@ -2,7 +2,7 @@ package simpletasks;
 
 import java.util.Scanner;
 
-public class Task12_AverageThreeNumbers {
+public class Task012_AverageThreeNumbers {
 
     public static void main(String[] args) {
         

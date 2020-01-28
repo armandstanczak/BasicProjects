@@ -1,6 +1,6 @@
 package simpletasks;
 
-public class Task4_PrintOperations {
+public class Task004_PrintOperations {
 
     public static void main(String[] args) {
         
