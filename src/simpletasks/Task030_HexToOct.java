@@ -2,7 +2,7 @@ package simpletasks;
 
 import java.util.Scanner;
 
-public class Task029_HexToBin {
+public class Task030_HexToOct {
     
     public static void main(String[] args) {
         
@@ -11,8 +11,9 @@ public class Task029_HexToBin {
         String hex = input.nextLine();
         
         int dec = Integer.parseInt(hex, 16);
-        String bin = Integer.toString(dec, 2);
+        String oct = Integer.toOctalString(dec);
         
-        System.out.println("Binary is egual to: " + bin);
+        System.out.println("Octal is: " + oct);
+        
     }
 }
