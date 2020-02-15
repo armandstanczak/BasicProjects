@@ -6,6 +6,9 @@ public class Task001_PrintHello {
 
         System.out.println("Hello world\nFirst project");
         
+        System.out.println("Number of rows: "+((int)((Math.sqrt(8 * (long)5 + 1) - 1) / 2)));	
+        
+        
     }
     
 }
