@@ -9,7 +9,7 @@ public class Task110_PowerOfNumber {
         Scanner input = new Scanner(System.in);
         System.out.print("Input a number: ");
         int a = input.nextInt();
-        double count = 0;
+        double count;
         int temp = 0;
         
         for (int i = 1;; i++) {
