@@ -10,7 +10,6 @@ public class Task123_MinSubArray {
     }
     
     private static int minSub(int[] a) {
-        
         if (a.length < 1) {
             return 0;
         }

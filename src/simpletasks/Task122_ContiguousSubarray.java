@@ -10,7 +10,6 @@ public class Task122_ContiguousSubarray {
     }
     
     private static int maxSub(int[] a) {
-        
         if (a.length < 1) {
             return 0;
         }

@@ -17,7 +17,6 @@ public class Task124_FindIndexArray {
     }
     
     public static int positionArray(int a, int[] array) {
-        
         Arrays.sort(array);
         
         for (int i = 0; i < array.length; i++) {

@@ -15,6 +15,5 @@ public class Task121_ReversedLinkedList {
         System.out.println("The orginal list is: " + list);
         Collections.reverse(list);
         System.out.println("Reversed list is: " + list);
-        
     }
 }
