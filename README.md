@@ -1,6 +1,6 @@
-# Set of "Simple Tasks" from https://www.w3resource.com/
+# Set of "Simple Tasks" from w3resource
 
-This repository covers all 150 excersices from https://www.w3resource.com/java-exercises/basic/index.php
+This repository covers all 150 excersices from w3resource - "Basic Part-I"
 They were all completed using NetBeans
 
 ## Installation
