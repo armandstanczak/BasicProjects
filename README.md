@@ -1,6 +1,7 @@
 # Set of excersices from w3resource
 
-This repository covers all 150 excersices from w3resource - "Basic Part-I"
+This repository covers excersices from w3resource - "Basic Part-I"
+
 They were all completed using NetBeans
 
 ## Installation
