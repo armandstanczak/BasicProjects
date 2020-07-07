@@ -8,6 +8,6 @@ They were all completed using NetBeans
 
 It should be pretty straight forward :)
 
-### Contanct
+### Contact
 
 You can reach me at armandstanczak@gmail.com
